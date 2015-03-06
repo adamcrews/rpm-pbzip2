@@ -1,0 +1,5 @@
+*.rpm
+*.swp
+*.srpm
+.ruby-version
+.vagrant/
